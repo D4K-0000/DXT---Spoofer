@@ -7,10 +7,10 @@ Installation  :
 Exécutez DXT-Spoofer Module.exe en mode administrateur et suivez les instructions d'utilisation.
 
 Utilisation   :
-Lancez le spoofer avant d'ouvrir FiveM.
-Entrez le mot de passe donner.
-Saisissez "Start" dans le terminal de commande.
-Une fois terminé, ouvrez FiveM et connectez-vous.
+- Lancez le spoofer avant d'ouvrir FiveM.
+- Entrez le mot de passe donner.
+- Saisissez "Start" dans le terminal de commande.
+- Une fois terminé, ouvrez FiveM et connectez-vous.
 
 Remarque      :
 - Le mot de passe est unique pour chaque appareil.
